@@ -1,3 +1,3 @@
 # Quadrats
 
- Published at [https://uobedtechstemm.github.io/Quadrats/](https://uobedtechstemm.github.io/Quadrats/)
+ Published at [https://uobedtechstemm.github.io/Quadrats/index.html](https://uobedtechstemm.github.io/Quadrats/index.html)
